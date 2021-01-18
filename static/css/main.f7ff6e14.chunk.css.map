@@ -1,1 +1,0 @@
-{"version":3,"sources":["Good.scss"],"names":[],"mappings":"AAAA,UACE,sBAAuB,CACxB,WAGC,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,oBAAqB","file":"main.f7ff6e14.chunk.css","sourcesContent":[".selected {\n  border: 3px solid green;\n}\n\n.list-item {\n  margin: 10px;\n  padding: 5px;\n  width: 250px;\n  height: 50px;\n  list-style-type: none;\n}\n"]}
